@@ -1,8 +1,8 @@
-import Interpolationdemo1 from "./Day1/Interpolationdemo3";
+import Interpolationdemo2 from "./Day1/Interpolationdemo4";
 function App() {
   return (
     <div>
-      <Interpolationdemo1 />
+      <Interpolationdemo2 />
     </div>
   );
 }
