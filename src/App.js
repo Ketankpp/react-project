@@ -1,5 +1,9 @@
+import Print from "./Day1/Helloworld";
 function App() {
-  return <div>Hello world</div>;
+  return (
+    <div>
+      <Print />
+    </div>
+  );
 }
-
 export default App;
