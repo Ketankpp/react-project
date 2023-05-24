@@ -1,9 +1,12 @@
-import Interpolationdemo2 from "./Day1/Interpolationdemo4";
-function App() {
+import React from "react";
+import ImageGallery from "./Day2/imagechange";
+
+const App = () => {
   return (
     <div>
-      <Interpolationdemo2 />
+      <ImageGallery />
     </div>
   );
-}
+};
+
 export default App;
